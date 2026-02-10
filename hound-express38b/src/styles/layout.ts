@@ -1,4 +1,5 @@
-import { CSSProperties } from "react";
+import type { CSSProperties } from "react";
+//import { CSSProperties } from "react";
 import { hText, hMenu, hNav, productsH3, productsP } from "./variables";
 import { wFlex, productGrid, listaGrid } from "./mixins";
 

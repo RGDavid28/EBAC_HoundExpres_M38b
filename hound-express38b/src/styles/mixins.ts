@@ -1,4 +1,5 @@
-import { CSSProperties } from "react";
+//import { CSSProperties } from "react";
+import type { CSSProperties } from "react";
 
 export const wFlex = (footColor?: boolean): CSSProperties => ({
   width: "100%",
